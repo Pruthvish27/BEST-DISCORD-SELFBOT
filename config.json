@@ -1,6 +1,6 @@
 {
-    "token": "enter-your-token-here",
-    "password": "discord-password",
+    "token": "token-goes-here",
+    "password": "discord password",
     "prefix": "!!",
     
     "nitro_sniper": true, 
